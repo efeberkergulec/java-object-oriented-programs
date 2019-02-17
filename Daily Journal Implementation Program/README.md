@@ -23,7 +23,7 @@ Please enter your next activity:
 Please enter your next activity:
 
 done
----
+
 And it gives this result:
 ---
 7:38AM : Woke up
@@ -33,4 +33,3 @@ And it gives this result:
 7:53AM : brush your teeth 
 
 7:55AM : have a breakfast
----
