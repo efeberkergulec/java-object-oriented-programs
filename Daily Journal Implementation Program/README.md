@@ -5,24 +5,15 @@ This program keeps record of a person's activities in a day.
 
 You need to use program like this:
 
-Please enter the time you wake up:
-
-7 hours and 38 minutes
-
-Please enter your next activity:
-
+  Please enter the time you wake up:
+  7 hours and 38 minutes
+  Please enter your next activity:
 15 take a shower
-
 Please enter your next activity:
-
 2 brush your teeth
-
 Please enter your next activity:
-
 37 have a breakfast
-
 Please enter your next activity:
-
 done
 
 
