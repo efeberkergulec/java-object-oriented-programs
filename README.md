@@ -1,3 +1,3 @@
-# Java Programs
+# Java Object Oriented Programs
 
-These are programs that I wrote with Java.
+These are object oriented programs that I wrote with Java.
